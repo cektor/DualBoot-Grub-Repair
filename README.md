@@ -58,7 +58,7 @@ sudo apt install git  -y
 
 ----------------------------------
 
-# Installation ShellScript
+# Compilation Script
 ```bash
 sudo git clone https://github.com/cektor/DualBoot-Grub-Repair.git
 ```
@@ -76,3 +76,14 @@ or
 ```bash
 sudo bash gdboot-r.sh
 ```
+
+
+----------------------------------
+
+# Install And Run Script
+
+```bash
+sudo bash -c "git clone https://github.com/cektor/DualBoot-Grub-Repair.git && cd DualBoot-Grub-Repair && chmod +x gdboot-r.sh && ./gdboot-r.sh -y"
+```
+
+
