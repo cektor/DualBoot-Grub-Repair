@@ -49,6 +49,8 @@ This function calls the above operations sequentially to check the GRUB configur
 # Note:
 In some Linux distributions, Grub is updated after a Kernel update and sometimes Windows BootLoader is deleted from Grub. Run this Shell Script without rebooting the system after the Kernel Update and avoid DualBoot Error.
 
+Absolutely No Warranty and the User is Responsible for any Problems that may occur!
+
 # Install Git Clone 
 
 Github Package Must Be Installed On Your Device.
